@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Satish 
 - 👀 I’m interested in Web devlopment using Javascript and it's frameworks and libraries.
-- 🌱 I’m currently learning Node js for back end devlopment.
 - 💞️ I’m looking to collaborate on the above technologies.
 - 📫 Reach me .. Contact Number: +91 9044466058, email ID:- sksatishk9@gmail.com
 
